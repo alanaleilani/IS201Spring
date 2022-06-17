@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+    padding: 20px;
+    border:5px solid black;
+    margin: 20px;
+    
+}
+footer{
+    text-align: center;
+    font-style: italic;
+    color: darkgray;
+}
+p{
+    font-style: italic;
+    text-align: center;
+}
+body{
+    background-color: rgb(236, 236, 230);
+}
+nav{
+    font-style: italic;
+}
+img{
+    width:35%;
+   
+}
